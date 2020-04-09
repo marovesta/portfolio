@@ -33,7 +33,7 @@ html{
 }
 
 .home{
-	background:url(images/wood.webp);
+	background:url(https://raw.githubusercontent.com/marovesta/portfolio/master/wood.webp);
 	background-attachment: fixed;
 	padding-left: 0px;
 	padding-right: 0px;
@@ -168,22 +168,22 @@ opacity: 0;
 transition-delay: .1s; 
 }
 .proj1{
-	background: url(images/portfolio1.png);
+	background: url(https://raw.githubusercontent.com/marovesta/portfolio/master/portfolio1.png);
 	background-size: cover;
 	background-position: center;
 }
 .proj2{
-	background: url(images/shopifystore1.png);
+	background: url(https://raw.githubusercontent.com/marovesta/portfolio/master/shopifystore1.png);
 	background-size: cover;
 	background-position: center;
 }
 .proj3{
-	background: url(images/Construction1.jpg);
+	background: url(https://raw.githubusercontent.com/marovesta/portfolio/master/Construction1.jpg);
 	background-size: cover;
 	background-position: center;
 }
 .proj4{
-	background: url(images/logodes2.jpg);
+	background: url(https://raw.githubusercontent.com/marovesta/portfolio/master/logodes2.jpg);
 	background-size: cover;
 	background-position: center;
 }
