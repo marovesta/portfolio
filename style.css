@@ -1,6 +1,9 @@
 html{
 	scroll-behavior: smooth;
 	}
+section{
+	overflow: hidden;
+}
 .mnav{
 	z-index:20;
 	position: fixed;
